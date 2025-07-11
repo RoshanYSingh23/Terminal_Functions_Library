@@ -1,0 +1,9 @@
+# Basic rewrite rules
+arcsin(sin(x)) = x
+abs(abs(x)) = abs(x)
+\# Commutation rules (A(B(x)) = B(A(x)))
+f(g(x)) = g(f(x))
+h(g(x)) = g(h(x))
+
+# Implication rule (A(B(x)) = RHS(x))
+h(f(x)) = x*x      # use explicit multiplication for square
