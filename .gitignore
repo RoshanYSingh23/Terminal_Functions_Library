@@ -1,0 +1,29 @@
+# Ignore compiled binaries and object files
+*.out
+*.o
+*.exe
+*.class
+*.bin
+
+# Ignore LaTeX aux files
+*.aux
+*.log
+*.toc
+*.synctex.gz
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+
+# Ignore raw results file
+raw_results.txt
+
+# Ignore backup/swap files
+*~
+*.swp
+
+# Ignore build directories
+/build/
+/dist/
