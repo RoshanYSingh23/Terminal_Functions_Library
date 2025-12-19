@@ -4,7 +4,7 @@ A fast expression simplifier and evaluator for unary mathematical functions usin
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 | File           | Purpose                                                                 |
 |----------------|-------------------------------------------------------------------------|
@@ -22,16 +22,16 @@ A fast expression simplifier and evaluator for unary mathematical functions usin
 
 ---
 
-## 🔄 Rules File Format (`rules.txt`)
+## Rules File Format (`rules.txt`)
 
 Each line specifies a rewrite rule or logic transformation. The system supports:
 
-### ✨ Basic Rewrite
+### Basic Rewrite
 
 
 ---
 
-## 🔄 Rules File Format (`rules.txt`)
+## Rules File Format (`rules.txt`)
 Each line is a rewrite rule of one of the following forms:
 
 - **Basic rewrite:**
@@ -62,7 +62,7 @@ g(x) = x
 
 ---
 
-## ⚙️ Build Instructions
+## Build Instructions
 Clone and build using:
 ```bash
 git clone git@github.com:RoshanYSingh23/Terminal_Functions_Library.git
@@ -86,6 +86,6 @@ output.txt
 
 ---
 
-## 👤 Author
+## Author
 
 **Roshan Y Singh**
